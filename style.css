@@ -1,7 +1,14 @@
 body {
     width: 100%;
     height: 100%;
+    font-family: 'Mea Culpa', cursive, 'Courier New', Courier, monospace;
+    font-size: 60px;
+    padding-left: 500px;
 }
 .image{
     width:30%;    
+}
+
+.header {   
+     display: flex;
 }
